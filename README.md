@@ -1,4 +1,4 @@
-# Tutorial: Geospatial Data Management in Apache Spark
+# Geospatial Data Management in Apache Spark
 
 Welcome to our ICDE 2019 tutorial!
 
@@ -14,9 +14,9 @@ The tutorial schedule is `April 10th, 2019 (Wednesday, Conference Day 3), from 1
 
 ## Materials
 
-You can download the presentation slides (PDF) and tentative tutorial abstract (PDF) via the given link.
+You can download [presentation slides (PDF)](https://www.public.asu.edu/~jiayu2/presentation/jia-icde19-tutorial.pdf) and [tentative tutorial abstract (PDF)](https://www.public.asu.edu/~jiayu2/geospark/publication/geospatial-icde-2019.pdf) via the given link.
 
-To watch the animated presentation slides, please open [animated presentation slides]() using Safari or Firefox.
+To watch the animated presentation slides, please open [animated presentation slides](https://www.public.asu.edu/~jiayu2/presentation/jia-icde19-tutorial/index.html) using Safari or Firefox.
 
 ## Tutorial video
 
