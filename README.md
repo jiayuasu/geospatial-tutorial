@@ -2,7 +2,7 @@
 
 Welcome to our ICDE 2019 tutorial!
 
-The tutorial schedule is April 10th, 2019 (Wednesday, Conference Day 3)
+The tutorial schedule is `April 10th, 2019 (Wednesday, Conference Day 3), from 14:35 - 16:05`.
 
 ## Outline
 
